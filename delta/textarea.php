@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Strona Xa PHP</title>
-		<meta charset="UTF-8"></meta>
+		<title>delta</title>
 	</head>
 	<body>
 		<?php
@@ -15,3 +14,7 @@
 			echo "</br>";
 			$delta = $b*$b-4*$a*$c;
 			echo "Delta: ".$delta."<br>";
+		?>
+	</body>
+</html>
+			
